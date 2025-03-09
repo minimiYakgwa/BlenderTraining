@@ -1,0 +1,27 @@
+z : 쉐이딩 방법 선택
+shift s : 커서 이동
+n : view, item, tool 사이드바를 온오프 가능
+properties - camera는 카메라를 선택해야 나옴.
+
+완전 반대방향으로 회전할 때 애니메이션 추가 실행하기
+플레이어 움직임 및 배경, 장애물 구현
+
+ctrl + p : 부모 오브젝트로 통일. 마지막 오브젝트가 최상위 오브젝트임. alt + p로 해제 가능.
+View Layer  -> OutPut으로 변경됨
+
+카메라가 orthographic상태일 때 camera to view 설정을 하게 되면 확대 축소는 orthographic scale 설정에서만 가능하다.
+
+ctrl + l : 링크
+
+blender 
+
+text 분리 방법
+text object 선택 후, 상단 Object - Convert - Mesh 클릭 후,
+Edit Mode에서 전체 선택 후 Mesh - Separate - By Loose Parts 선택
+
+animation에서 keyframe을 넣고 싶다면 i가 아니라 k를 누르기!!
+
+alt 클릭 - 선과 비슷한 위치에 있는 선들이 모두 선택됨
+ctrl + i : 선택한 점을 제외한 나머지 모든 점을 선택
+
+Principled BSDF : 물리를 기반으로 한 쉐이더
